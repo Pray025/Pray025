@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Pratham+Ray+👋;Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+%26+Android" alt="Typing SVG" />
+  <<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Pratham+Ray+👋;Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+%26+Android" alt="Typing SVG" />
   
   <p>
     <b>Full Stack Developer | Java & Spring Boot | React.js | MERN Stack | Android Developer</b>
