@@ -72,6 +72,6 @@
 </p>
 
 <p align="center">
-  <!-- Streak Stats Card (Fast server with Asia/Kolkata timezone) -->
-  <img src="https://streak-stats.demolab.com/?user=Pray025&timezone=Asia/Kolkata&hide_border=true&background=1A1B27&ring=A970FF&fire=A970FF&currStreakNum=A970FF&currStreakLabel=C099FF&sideNums=A9B1D6&sideLabels=A9B1D6&dates=A9B1D6" />
+  <!-- Streak Stats Card (Saved directly in repo with Private Commits) -->
+  <img src="github-streak-stats.svg" alt="GitHub Streak" />
 </p>
