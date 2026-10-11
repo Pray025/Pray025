@@ -1,6 +1,5 @@
 <div align="center">
-  <<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Pratham+Ray+👋;Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+%26+Android" alt="Typing SVG" />
-  
+  <h1>Hey there, I'm Pratham Ray <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave" /></h1>
   <p>
     <b>Full Stack Developer | Java & Spring Boot | React.js | MERN Stack | Android Developer</b>
   </p>
@@ -66,13 +65,13 @@
 
 <p align="center">
   <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pray025&show_icons=true&hide_border=true&bg_color=1A1B27&title_color=A970FF&text_color=A9B1D6&icon_color=C099FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pray025&show_icons=true&hide_border=true&bg_color=1A1B27&title_color=A970FF&text_color=A9B1D6&icon_color=C099FF&cache_seconds=7200" width="48%" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pray025&layout=compact&hide_border=true&bg_color=1A1B27&title_color=A970FF&text_color=A9B1D6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pray025&layout=compact&hide_border=true&bg_color=1A1B27&title_color=A970FF&text_color=A9B1D6&cache_seconds=7200" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pray025&hide_border=true&background=1A1B27&ring=A970FF&fire=A970FF&currStreakNum=A970FF&currStreakLabel=C099FF&sideNums=A9B1D6&sideLabels=A9B1D6&dates=A9B1D6" />
+  <!-- Streak Stats Card (Fast server with Asia/Kolkata timezone) -->
+  <img src="https://streak-stats.demolab.com/?user=Pray025&timezone=Asia/Kolkata&hide_border=true&background=1A1B27&ring=A970FF&fire=A970FF&currStreakNum=A970FF&currStreakLabel=C099FF&sideNums=A9B1D6&sideLabels=A9B1D6&dates=A9B1D6" />
 </p>
