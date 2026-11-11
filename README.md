@@ -19,6 +19,12 @@
 ### 👨‍💻 About Me
 > CSE undergraduate and Full Stack Developer with hands-on experience in Java, Spring Boot, React.js, Angular, PostgreSQL, SQL, NoSQL databases and Android development. I enjoy building scalable web applications and solving real-world problems through clean, efficient software.
 
+- 🎓 B.Tech CSE (2028) at **Centurion University of Technology and Management, Bhubaneswar**
+- 🏭 Interned at **Tata Steel SNTI**, building a Hot Strip Mill (HSM) Production Monitoring System
+- 🌐 Built and deployed real client websites with admin panels, payment flows and email systems
+- 🤖 Currently building an **IT Helpdesk & SLA Management System** with AI/ML ticket intelligence
+- 🎯 Open to **software internships** and junior full-stack roles
+
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -61,6 +67,58 @@
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🎫 IT Helpdesk & SLA Management System with AI/ML Ticket Intelligence
+> A pure **Advanced Java** helpdesk platform with an AI/ML layer for smarter ticket handling.
+
+- **Backend:** Java Servlets, JSP, Filters, Listeners, raw JDBC with a custom transaction manager, feature-wise modular MVC
+- **Database:** PostgreSQL (Docker Compose, numbered SQL init scripts)
+- **ML Service:** Separate Python FastAPI microservice. Random Forest for SLA-breach prediction, TF-IDF cosine similarity for duplicate tickets, Logistic Regression for auto-categorization
+- **GenAI:** LLM-based ticket summaries and resolution help, with fallbacks so AI is never a single point of failure
+- **Roles:** Employee, Technician, Admin, with a full ticket lifecycle and audit trail
+
+`Java` `Servlets` `JSP` `JDBC` `PostgreSQL` `Docker` `FastAPI` `scikit-learn`
+
+#### 🏭 HSM Production Monitoring System (Tata Steel SNTI Internship)
+> Real-time monitoring and analytics dashboard for Hot Strip Mill production data.
+
+- Built during my internship at **Tata Steel SNTI**
+- Interactive dashboards and charts for production insights
+- **Stack:** Spring Boot, Oracle DB, React.js, Chart.js / Recharts
+
+`Spring Boot` `Oracle` `React` `Chart.js` `Recharts`
+
+#### 🛡️ SECURASHADE TechLabs: Commercial Website & Admin Platform
+> Full-featured business website with a custom admin panel, built and deployed for a real client.
+
+- PHP/MySQL backend with PDO, rate limiting and JSON API endpoints
+- Admin panel: auth, leads dashboard with CSV export, testimonials CRUD, media gallery, popups, visitor counter
+- Authenticated SMTP email (PHPMailer), Razorpay payment groundwork, license-key delivery
+- Activation & Renewal dashboard with XLSX/CSV parsing and Chart.js charts
+- Dark/light theme, scroll-driven animations, quiz section, review carousel, buy-now flow
+
+`PHP` `MySQL` `JavaScript` `Chart.js` `PHPMailer` `Razorpay`
+
+#### 🏫 V.S. Public School Website
+> Complete school website with admissions, careers and contact workflows.
+
+- PHP/MySQL backend for admissions, careers and contact forms
+- Admin panel, dynamic hero media, virtual tour page, chronological gallery
+- Clean URL rewriting with `.htaccess`, deployed on cPanel
+
+`PHP` `MySQL` `JavaScript` `Apache`
+
+#### 🧩 More Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🏥 **Hospital Management System** | Manage patients, doctors and appointments | Java, SQL |
+| 📚 **Student Helper App** | Productivity and study tools for students | Android / JavaScript |
+| 🚗 **Driver Behaviour Analysis** | Analysis of driving patterns and behaviour | Data Analysis |
+
+---
+
 ### 📈 GitHub Analytics
 
 <p align="center">
@@ -75,3 +133,30 @@
   <!-- Streak Stats Card (Saved directly in repo with Private Commits) -->
   <img src="github-streak-stats.svg" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🧭 What I'm Working On
+
+- [x] HSM production monitoring system (Tata Steel SNTI internship)
+- [x] Client websites with admin panels and payments
+- [ ] IT Helpdesk & SLA system: SRS, design and implementation
+- [ ] Deepening Data Structures & Algorithms
+- [ ] System design and cloud deployment
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to **internships, collaborations and freelance web projects**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratham-ray-61b12b30b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=A970FF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:prathamray025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=A970FF" alt="Email" />
+  </a>
+</p>
+
+<p align="center"><i>⭐ If you like my work, consider starring a repo. Thanks for stopping by!</i></p>
